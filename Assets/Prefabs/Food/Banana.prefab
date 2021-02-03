@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 4459800886914133113}
   - component: {fileID: -4655622424284370325}
   - component: {fileID: 1589918312378958982}
+  - component: {fileID: -6752415228367914568}
   m_Layer: 0
   m_Name: Banana
   m_TagString: Untagged
@@ -172,3 +173,15 @@ MonoBehaviour:
   _defaultSliceMaterial: {fileID: 2100006, guid: 461f0170c82b53340a9812199b63bbd4, type: 3}
   _asynchronously: 0
   _delayBetweenSlices: 1
+--- !u!114 &-6752415228367914568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7900510776943681053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c6ccfd9556045f489d4deb031d92b15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

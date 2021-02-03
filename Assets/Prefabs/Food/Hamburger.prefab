@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 6104813855899821152}
   - component: {fileID: 2825006886958097299}
   - component: {fileID: -4511245954248906751}
+  - component: {fileID: -3935123307680159808}
   m_Layer: 0
   m_Name: Hamburger
   m_TagString: Untagged
@@ -175,3 +176,15 @@ MonoBehaviour:
   _defaultSliceMaterial: {fileID: 2100016, guid: 54b107e50acd7e24b96d7de887c68833, type: 3}
   _asynchronously: 0
   _delayBetweenSlices: 1
+--- !u!114 &-3935123307680159808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043306023123539040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c6ccfd9556045f489d4deb031d92b15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
